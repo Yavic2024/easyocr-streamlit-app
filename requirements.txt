@@ -6,3 +6,4 @@ streamlit-authenticator>=0.2.2
 watchdog>=4.0.0
 pandas>=2.2.1
 opencv-python>=4.9.0.80
+easyocr
